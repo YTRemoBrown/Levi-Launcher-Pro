@@ -2,6 +2,7 @@
 # 🎮 Levi Launcher Pro - الإصدار 2.0
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="30%" />
 
 ![Levi Launcher Pro](https://github.com/user-YTRemoBrownd9d-c62d1b84251d)
 
