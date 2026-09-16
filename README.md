@@ -1,10 +1,12 @@
 > 🔧 **تطبيق معدّل هندسياً** | © حقوق التطبيق الأصلي لمطوريه، وحقوق التعديلات لـ YTRemoBrown
+
 # 🎮 Levi Launcher Pro - الإصدار 2.0
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="30%" />
 
-![Levi Launcher Pro](https://github.com/user-YTRemoBrownd9d-c62d1b84251d)
+<img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="100%" alt="Levi Launcher Pro" />
+
+<br><br>
 
 **مشغّل لنسخ ماين كرافت الجوال بتصميم عصري وأداء محسّن**
 
@@ -15,14 +17,21 @@
 ## 📱 صور التطبيق
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="30%" />
-  <img src="https://github.com/user-attachments/assets/9817a6a5-8ad5-4166-9e5a-6cdbba6e7472" width="30%" />
-  <img src="https://github.com/user-attachments/assets/bfa4d9cc-8f49-4220-9a7d-1cf7be0861a0" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="90%" />
 </p>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/506b906f-7164-4a45-b333-7a2b0499939c" width="30%" />
-  <img src="https://github.com/user-attachments/assets/be51d9af-b07e-4c72-956e-8df69155dcc5" width="30%" />
-  <img src="https://github.com/user-attachments/assets/216d94b4-0723-4525-9fb0-3a979b6ac94a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9817a6a5-8ad5-4166-9e5a-6cdbba6e7472" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bfa4d9cc-8f49-4220-9a7d-1cf7be0861a0" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/506b906f-7164-4a45-b333-7a2b0499939c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/be51d9af-b07e-4c72-956e-8df69155dcc5" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/216d94b4-0723-4525-9fb0-3a979b6ac94a" width="90%" />
 </p>
 
 ---
@@ -56,13 +65,12 @@
 4. ثبّت الملف الجديد
 
 ---
----
 
 ## ⚠️ إخلاء المسؤولية وحقوق الملكية
 
 ### 🎯 طبيعة التطبيق
-**Levi Launcher Pro** هو تطبيق معدّل هندسياً (Reverse Engineered) 
-من تطبيق أصلي تم تطويره بجهود المطورين الأصليين، وقام **YTRemoBrown** 
+**Levi Launcher Pro** هو تطبيق معدّل هندسياً (Reverse Engineered)
+من تطبيق أصلي تم تطويره بجهود المطورين الأصليين، وقام **YTRemoBrown**
 بإضافة تحسينات وتعديلات على الواجهة والأداء.
 
 ### 👥 حقوق الملكية
@@ -79,12 +87,13 @@
 - أي مشاكل قانونية تنتج عن إعادة النشر تقع على عاتق من نشرها.
 
 ### 🤝 احترام المطورين الأصليين
-نحترم جهود المطورين الأصليين ونعترف بفضلهم. هذا المشروع هو 
+نحترم جهود المطورين الأصليين ونعترف بفضلهم. هذا المشروع هو
 **إضافة مجتمعية** تهدف لتحسين التجربة، وليس استيلاءً على العمل الأصلي.
 
 ### 📢 للمطورين الأصليين
-إذا كنت أحد المطورين الأصليين وترغب في تعديل أو إزالة المشروع، 
-يُرجى فتح [Issue](../../issues) وسيتم الاستجابة فوراً
+إذا كنت أحد المطورين الأصليين وترغب في تعديل أو إزالة المشروع،
+يُرجى فتح [Issue](../../issues) وسيتم الاستجابة فوراً.
+
 ---
 
 ## 🙏 شكر خاص
