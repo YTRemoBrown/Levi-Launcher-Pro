@@ -1,8 +1,9 @@
+> 🔧 **تطبيق معدّل هندسياً** | © حقوق التطبيق الأصلي لمطوريه، وحقوق التعديلات لـ YTRemoBrown
 # 🎮 Levi Launcher Pro - الإصدار 2.0
 
 <div align="center">
 
-![Levi Launcher Pro](https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d)
+![Levi Launcher Pro](https://github.com/user-YTRemoBrownd9d-c62d1b84251d)
 
 **مشغّل لنسخ ماين كرافت الجوال بتصميم عصري وأداء محسّن**
 
