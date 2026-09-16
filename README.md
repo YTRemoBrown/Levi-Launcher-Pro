@@ -4,46 +4,71 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="100%" alt="Levi Launcher Pro" />
+<img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="100%" alt="Levi Launcher Pro - Minecraft Bedrock Launcher for Android" />
 
 <br><br>
 
-**مشغّل لنسخ ماين كرافت الجوال بتصميم عصري وأداء محسّن**
+**Levi Launcher Pro** — مشغّل (Launcher) لنسخ ماين كرافت الجوال بتصميم عصري وأداء محسّن
+
+**Minecraft Bedrock Edition Launcher for Android**
 
 </div>
+
+---
+
+## 📖 عن التطبيق
+
+**Levi Launcher Pro** هو مشغّل ماين كرافت (Minecraft Launcher) 
+لأجهزة الأندرويد، مصمّم ليعمل مع جميع نسخ **Minecraft Bedrock Edition** 
+و **Minecraft PE (Pocket Edition)**. التطبيق يوفّر واجهة عصرية وسريعة 
+لإدارة وتشغيل نسخ اللعبة المتعددة بسهولة تامة.
+
+تم بناء هذا الإصدار عبر الهندسة العكسية (Reverse Engineering) للتطبيق 
+الأصلي، مع إضافة تحسينات جوهرية على **الواجهة (UI)** و **الأداء (Performance)** 
+و **دعم اللغة العربية**، مع الحفاظ الكامل على حقوق المطورين الأصليين.
 
 ---
 
 ## 📱 صور التطبيق
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="90%" />
+  <img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="90%" alt="Levi Launcher Pro screenshot" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9817a6a5-8ad5-4166-9e5a-6cdbba6e7472" width="45%" />
-  <img src="https://github.com/user-attachments/assets/bfa4d9cc-8f49-4220-9a7d-1cf7be0861a0" width="45%" />
+  <img src="https://github.com/user-attachments/assets/9817a6a5-8ad5-4166-9e5a-6cdbba6e7472" width="45%" alt="Levi Launcher interface" />
+  <img src="https://github.com/user-attachments/assets/bfa4d9cc-8f49-4220-9a7d-1cf7be0861a0" width="45%" alt="Levi Launcher settings" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/506b906f-7164-4a45-b333-7a2b0499939c" width="45%" />
-  <img src="https://github.com/user-attachments/assets/be51d9af-b07e-4c72-956e-8df69155dcc5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/506b906f-7164-4a45-b333-7a2b0499939c" width="45%" alt="Levi Launcher home" />
+  <img src="https://github.com/user-attachments/assets/be51d9af-b07e-4c72-956e-8df69155dcc5" width="45%" alt="Levi Launcher features" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/216d94b4-0723-4525-9fb0-3a979b6ac94a" width="90%" />
+  <img src="https://github.com/user-attachments/assets/216d94b4-0723-4525-9fb0-3a979b6ac94a" width="90%" alt="Levi Launcher Pro overview" />
 </p>
 
 ---
 
 ## ✨ المميزات
 
-- 🚀 **واجهة سلسة وسريعة** - تنقل بسيط وأداء خفيف
-- ⚡ **أداء محسّن** - تحسينات في استهلاك الذاكرة والمعالج
-- 🌍 **دعم كامل للغة العربية** - واجهة عربية واضحة
-- 📦 **دعم جميع نسخ ماين كرافت للجوال** - توافق مع إصدارات متعددة
-- 🎨 **تصميم عصري** - واجهة أنيقة وسهلة الاستخدام
-- 🔧 **معدّل ومحسّن** - إصلاحات وتحسينات على النسخة الأصلية
+- 🚀 **واجهة سلسة وسريعة** — تنقل بسيط وأداء خفيف
+- ⚡ **أداء محسّن** — تحسينات في استهلاك الذاكرة والمعالج
+- 🌍 **دعم كامل للغة العربية** — واجهة عربية واضحة
+- 📦 **دعم جميع نسخ ماين كرافت للجوال** — توافق مع إصدارات متعددة
+- 🎨 **تصميم عصري** — واجهة أنيقة وسهلة الاستخدام
+- 🔧 **معدّل ومحسّن** — إصلاحات وتحسينات على النسخة الأصلية
+- 🎯 **إدارة متعددة للنسخ** — تشغيل نسخ ماين كرافت بأزرار بسيطة
+- 🧩 **متوافق مع Minecraft Bedrock & PE** — يعمل مع جميع الإصدارات
+
+---
+
+## 🔍 الكلمات المفتاحية
+
+`Levi Launcher` · `Minecraft Launcher` · `Minecraft Bedrock` · `Minecraft PE` · 
+`MCPE Launcher` · `Android Minecraft Launcher` · `مشغل ماين كرافت` · 
+`ماين كرافت الجوال` · `Launcher Minecraft` · `Bedrock Launcher`
 
 ---
 
@@ -107,5 +132,7 @@
 **صُنع بـ ❤️ للمجتمع العربي**
 
 ⭐ إذا أعجبك المشروع، لا تنسَ النجمة ⭐
+
+[📥 تحميل آخر إصدار](../../releases/latest)
 
 </div>
