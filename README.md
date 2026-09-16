@@ -1,7 +1,94 @@
-## 📱 Levi Launcher Pro - الإصدار 2
-<img width="2400" height="1080" alt="Screenshot_٢٠٢٦-٠٩-١٥-٠٧-٠٤-١١-٠٦_be70d8c777520087469897b5f3eefa07" src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" />
-<img width="2400" height="1080" alt="Screenshot_٢٠٢٦-٠٩-١٥-٠٧-٠٠-٣٣-١٥_be70d8c777520087469897b5f3eefa07" src="https://github.com/user-attachments/assets/9817a6a5-8ad5-4166-9e5a-6cdbba6e7472" />
-<img width="2400" height="1080" alt="Screenshot_٢٠٢٦-٠٩-١٥-٠٧-٠٠-٤٥-٢٧_be70d8c777520087469897b5f3eefa07" src="https://github.com/user-attachments/assets/bfa4d9cc-8f49-4220-9a7d-1cf7be0861a0" />
-<img width="2400" height="1080" alt="Screenshot_٢٠٢٦-٠٩-١٥-٠٧-٠٠-٥٣-٠٠_be70d8c777520087469897b5f3eefa07" src="https://github.com/user-attachments/assets/506b906f-7164-4a45-b333-7a2b0499939c" />
-<img width="2400" height="1080" alt="Screenshot_٢٠٢٦-٠٩-١٥-٠٧-٠١-٤٦-٦٩_be70d8c777520087469897b5f3eefa07" src="https://github.com/user-attachments/assets/be51d9af-b07e-4c72-956e-8df69155dcc5" />
-<img width="2400" height="1080" alt="Screenshot_٢٠٢٦-٠٩-١٥-٠٧-٠٢-٢٨-٧٣_be70d8c777520087469897b5f3eefa07" src="https://github.com/user-attachments/assets/216d94b4-0723-4525-9fb0-3a979b6ac94a" />
+# 🎮 Levi Launcher Pro - الإصدار 2.0
+
+<div align="center">
+
+![Levi Launcher Pro](https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d)
+
+**مشغّل لنسخ ماين كرافت الجوال بتصميم عصري وأداء محسّن**
+
+</div>
+
+---
+
+## 📱 صور التطبيق
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee540a55-8820-4d93-bd9d-c62d1b84251d" width="30%" />
+  <img src="https://github.com/user-attachments/assets/9817a6a5-8ad5-4166-9e5a-6cdbba6e7472" width="30%" />
+  <img src="https://github.com/user-attachments/assets/bfa4d9cc-8f49-4220-9a7d-1cf7be0861a0" width="30%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/506b906f-7164-4a45-b333-7a2b0499939c" width="30%" />
+  <img src="https://github.com/user-attachments/assets/be51d9af-b07e-4c72-956e-8df69155dcc5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/216d94b4-0723-4525-9fb0-3a979b6ac94a" width="30%" />
+</p>
+
+---
+
+## ✨ المميزات
+
+- 🚀 **واجهة سلسة وسريعة** - تنقل بسيط وأداء خفيف
+- ⚡ **أداء محسّن** - تحسينات في استهلاك الذاكرة والمعالج
+- 🌍 **دعم كامل للغة العربية** - واجهة عربية واضحة
+- 📦 **دعم جميع نسخ ماين كرافت للجوال** - توافق مع إصدارات متعددة
+- 🎨 **تصميم عصري** - واجهة أنيقة وسهلة الاستخدام
+- 🔧 **معدّل ومحسّن** - إصلاحات وتحسينات على النسخة الأصلية
+
+---
+
+## 📋 المتطلبات
+
+| المتطلب | القيمة |
+|---------|--------|
+| نظام التشغيل | Android 6.0 أو أحدث |
+| المساحة المطلوبة | ~50 MB |
+| الذاكرة العشوائية | 2 GB أو أكثر |
+
+---
+
+## 📥 التثبيت
+
+1. حمّل ملف APK من قسم [Releases](../../releases)
+2. فعّل **"تثبيت من مصادر غير معروفة"** من إعدادات الهاتف
+3. احذف النسخة القديمة أولاً إذا كانت مثبتة
+4. ثبّت الملف الجديد
+
+---
+
+## ⚠️ إخلاء المسؤولية وحقوق الملكية
+
+> **هذا التطبيق ليس تابعاً ولا مرتبطاً ولا معتمداً من شركة Mojang Studios أو Microsoft بأي شكل من الأشكال.**
+
+- **Minecraft** علامة تجارية مسجّلة لشركة **Mojang Studios**.
+- هذا التطبيق هو **مشغّل (Launcher)** معدّل ومحسّن من طرف ثالث، ولا يحتوي على أي ملفات أصلية من اللعبة.
+- التطبيق **لا يدّعي** أي ملكية لحقوق Minecraft أو Mojang.
+- جميع الحقوق محفوظة لأصحابها الشرعيين.
+- **لا يتضمن** التطبيق أي نسخة من اللعبة نفسها، ولا يجب استخدامه إلا مع نسخ قانونية يملكها المستخدم.
+
+---
+
+## 📜 الترخيص
+
+هذا المشروع هو عمل تعديلي وتطويري مستقل. جميع التعديلات والتحسينات المضافة:
+
+- © 2026 **YTRemoBrown** - جميع الحقوق محفوظة للمطور
+- يُمنع إعادة نشر التطبيق المعدّل دون إذن
+- يُسمح بالاستخدام الشخصي فقط
+
+للمشاكل أو الاستفسارات: افتح [Issue](../../issues)
+
+---
+
+## 🙏 شكر خاص
+
+شكراً لكل من ساهم في تطوير واختبار التطبيق.
+
+---
+
+<div align="center">
+
+**صُنع بـ ❤️ للمجتمع العربي**
+
+⭐ إذا أعجبك المشروع، لا تنسَ النجمة ⭐
+
+</div>
